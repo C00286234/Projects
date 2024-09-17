@@ -1,0 +1,1 @@
+This folder consists of a video explaining a basic script showcasing some user access control commands

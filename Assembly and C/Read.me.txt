@@ -1,0 +1,1 @@
+This folder contains 2 files which showcase the Developement a simple game in Easy68k Assembly, focusing on optimizing memory usage and performance.

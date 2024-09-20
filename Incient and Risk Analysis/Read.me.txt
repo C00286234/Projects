@@ -1,0 +1,4 @@
+This folder contains 2 groups projects 
+project 1 is on Ethics 
+project 2 is on Incident and Risk Analysis	
+#Worked in a team to analyse a real-world cyber-attack, performing risk assessment, identified vulnerabilities, and proposed mitigation measured.

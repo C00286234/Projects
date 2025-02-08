@@ -1,4 +1,4 @@
 This folder contains 2 files ought to be ran using cisco packet tracer 
 project 1 - Switching and VLAN conepts.
 Project 2 - Wireless and Routing Concepts.
-Project 3 - Secure Network for SETU
+Networking Packet Tracer - Secure Network for SETU
